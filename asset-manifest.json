@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-find-git-user/static/css/main.7d0c0008.css",
+    "main.js": "/React-find-git-user/static/js/main.c5f57143.js",
+    "static/media/link.svg": "/React-find-git-user/static/media/link.21a89c13137a1e2433f4.svg",
+    "static/media/location.svg": "/React-find-git-user/static/media/location.e0e1fee36ef68c1168af.svg",
+    "index.html": "/React-find-git-user/index.html",
+    "static/media/search.svg": "/React-find-git-user/static/media/search.40c10caad2c3e7318423.svg",
+    "main.7d0c0008.css.map": "/React-find-git-user/static/css/main.7d0c0008.css.map",
+    "main.c5f57143.js.map": "/React-find-git-user/static/js/main.c5f57143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0c0008.css",
+    "static/js/main.c5f57143.js"
+  ]
+}
